@@ -1,0 +1,28 @@
+{
+  "folders": 
+    [
+      {
+        "name": "App",
+        "path": "./src/app"
+      },
+      {
+        "name": "Source",
+        "path": "./src"
+      },
+      {
+        "name": "Project Root",
+        "path": "."
+      }
+    ],
+  "settings": 
+    {
+      "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#eee",
+        "titleBar.activeBackground": "#1976d2",
+        "titleBar.inactiveForeground": "#eee",
+        "titleBar.inactiveBackground": "#dd1b16"
+      },
+      "terminal.integrated.cwd": "."
+    }
+}
+  
